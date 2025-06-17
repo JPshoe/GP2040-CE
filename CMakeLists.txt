@@ -251,6 +251,7 @@ src/addons/input_macro.cpp
 src/addons/snes_input.cpp
 src/addons/tilt.cpp
 src/addons/spi_analog_ads1256.cpp
+src/addons/spam_b1.cpp
 src/addons/gamepad_usb_host.cpp
 src/addons/gamepad_usb_host_listener.cpp
 src/animationstation/animation.cpp
